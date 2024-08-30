@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    background-color: #121212;
+}
+/* start of register page */
+.register-page {
+    width: 450px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: #eee;
+    border-radius: 5px;
+}
+/* end of register page */
+/* start of login page */
+.login-page {
+    width: 450px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: #eee;
+    border-radius: 5px;
+}
+/* end of login page */
+/* start of edit product page */
+.edit-product {
+    width: 600px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: #1f1f1f;
+    border-radius: 5px;
+}
+.edit-product form label {
+    width: 150px;
+    justify-content: center;
+    background-color: rgb(71, 71, 71);
+    border: none;
+    color: #eee;
+}
+/* end of edit product page */
+/* start of add product page */
+.add-product-page {
+    width: 600px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: #1f1f1f;
+    border-radius: 5px;
+}
+.add-product-page form label {
+    width: 150px;
+    justify-content: center;
+    background-color: rgb(71, 71, 71);
+    border: none;
+    color: #eee;
+}
+/* end of add product page */
