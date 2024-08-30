@@ -3,7 +3,7 @@
  #### "Do not forget to create a new database called 'store'  ####
  ##################################################################
 
-Login credintials
+Login Credentials
 (( Admin account ))
 - Username : mostafa
 - Password : mostafa
