@@ -1,6 +1,6 @@
 # store
  ##################################################################
- #### "Do not forget to create a new database called 'stored'  ####
+ #### "Do not forget to create a new database called 'store'  ####
  ##################################################################
 
 Login credintials
