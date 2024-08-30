@@ -1,6 +1,7 @@
 # store
-
-
+ ##################################################################
+ #### "Do not forget to create a new database called 'stored'  ####
+ ##################################################################
 
 Login credintials
 (( Admin account ))
